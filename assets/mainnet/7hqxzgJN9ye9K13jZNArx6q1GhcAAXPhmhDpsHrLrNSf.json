@@ -1,0 +1,16 @@
+{
+  "name": "SDAR",
+  "symbol": "SDAR",
+  "decimals": 6,
+  "logoURI": "https://www.solidar.me/sdar-logo.png",
+  "tags": [
+    "utility-token"
+  ],
+  "extensions": {
+    "website": "https://www.solidar.me",
+    "instagram": "https://www.instagram.com/sdar_protocol",
+    "telegram": "https://t.me/sdar_protocol",
+    "description": "SDAR is a utility token built for real-world use, powered by the Solana blockchain.",
+    "explorer": "https://solscan.io/token/7hqxzgJN9ye9K13jZNArx6q1GhcAAXPhmhDpsHrLrNSf"
+  }
+}
